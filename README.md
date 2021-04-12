@@ -1,3 +1,2 @@
-# Community Template Repo
-
-Template repo with docs and GitHub Actions etc, to create other projects.
+# Phonexpress
+phonexpress is an e-commerce app for buying and selling of phones
